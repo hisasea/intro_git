@@ -1,2 +1,4 @@
 初めてのGit
 基本的な操作方法を学ぼう
+・git add
+・git commit
